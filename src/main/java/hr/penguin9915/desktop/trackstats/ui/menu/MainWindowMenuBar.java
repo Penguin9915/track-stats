@@ -26,6 +26,7 @@ import javax.swing.JMenuItem;
 import hr.penguin9915.desktop.trackstats.lang.ActionLocalizer;
 import hr.penguin9915.desktop.trackstats.lang.LangProvider;
 import hr.penguin9915.desktop.trackstats.ui.actions.ImportAction;
+import hr.penguin9915.desktop.trackstats.ui.actions.OpenLicense;
 import hr.penguin9915.desktop.trackstats.ui.actions.OpenSettingsAction;
 
 public class MainWindowMenuBar extends JMenuBar {
@@ -38,6 +39,10 @@ public class MainWindowMenuBar extends JMenuBar {
         var settingsLocalizer = new ActionLocalizer(p);
         Action settingsAction = new OpenSettingsAction(settingsLocalizer, mainFrame, p);
         optionsMenu.add(settingsAction);
+
+        var licenseLocalizer = new ActionLocalizer(p);
+        Action licenseOpener = new OpenLicense(licenseLocalizer);
+        optionsMenu.add(licenseOpener);
 
         add(optionsMenu);
     }

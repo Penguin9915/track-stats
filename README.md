@@ -15,6 +15,7 @@ Changing configuration won't work when using java archive (jar) from releases pa
         * [Running java archive](#running-java-archive)
         * [Compiling and running source code](#compiling-and-running-source-code)
 * [Languages](#languages)
+* [License](#shortly-about-license)
 
 
 # About
@@ -61,3 +62,20 @@ Currently app is available in 2 languages, English and Croatian. On first start 
 ## Available languages
 * en - English
 * hr - Croatian
+
+# Shortly about license
+
+    Copyright (C) 2022  Penguin9915
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
