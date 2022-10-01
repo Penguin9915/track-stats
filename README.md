@@ -4,6 +4,7 @@ GUI java application for displaying track data
 ## Warning
 
 This application is mostly working. Some displayed data might be incorrect. I am hoping to fix this in future.
+Changing configuration won't work when using java archive (jar) from releases page.
 
 # Contents
 
