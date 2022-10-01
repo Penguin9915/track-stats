@@ -42,7 +42,7 @@ If local postgres instance is used, then database named `locationData` should ex
 
 ### Running java archive
 
-Next you will need to start application. Application requires **Java 16** or newer. Precompiled and packaged application code can be downloaded form releases pages on GitHub.
+Next you will need to start application. Application requires **Java 16** or newer. Precompiled and packaged application code can be downloaded form releases page on GitHub.
 
 Once java archive _(jar)_ is downloaded app can be started by executing following command in terminal: 
 ```java -jar  track-stat-0.0.1-jar-with-dependencies.jar```
@@ -55,7 +55,7 @@ Source code can be compiled and ran by executing:
 
 # Languages
 
-Currently app is available in 2 languages, English and Croatian. On first start application will be on English. To change that in menu bar choose options, and then settings. In settings under default.lang set string to hr. After restart application should be on Croatian.
+Currently app is available in 2 languages, English and Croatian. On first start application will be on English. To change that, in menu bar, choose options, and then settings. In settings under `default.lang` set string to `hr`. After restart application should be on Croatian.
 
 ## Available languages
 * en - English
