@@ -38,7 +38,7 @@ public class Utils {
     ){}
 
     /**
-     * This method is modified version of javascript providedm
+     * This method is modified version of javascript provided
      * on page https://www.movable-type.co.uk/scripts/latlong.html
      * Under MIT license (http://opensource.org/licenses/MIT)
      * @return distance in meters
