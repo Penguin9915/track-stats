@@ -20,7 +20,7 @@ Changing configuration won't work when using java archive (jar) from releases pa
 
 # About
 
-I wanted to build my own FOSS application, so this is my first publicly available application. This application is made for loading location data from csv _(comma separated values)_ file. I used it with [OpenTracks](https://f-droid.org/en/packages/de.dennisguse.opentracks/) from f-droid.
+I wanted to build my own FOSS application. This is my first publicly available application. This application is made for loading location data from csv _(comma separated values)_ file. I used it with [OpenTracks](https://f-droid.org/en/packages/de.dennisguse.opentracks/) from f-droid.
 
 This app is not yet tested, so there might be a lot of bugs. Feel free to report them on GitHub, I'll try my best to fix them as soon as possible.
 
